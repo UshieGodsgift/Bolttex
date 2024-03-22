@@ -40,8 +40,8 @@
 					<div class="container">
 						<div class="mobile-responsive-menu">
 							<div class="logo">
-								<a href="index.html">
-									<img src="assets/images/logo.png" class="main-logo" alt="logo">
+								<a href="index.php">
+									<img src="assets/images/logo1.png" width="40" height="50" class="main-logo" alt="logo">
 								</a>
 							</div>
 						</div>
@@ -52,7 +52,7 @@
 					<div class="container-fluid">
 						<nav class="navbar navbar-expand-md navbar-light">
 							<a class="navbar-brand" href="index.php">
-								<img src="assets/images/logo.png" class="main-logo" alt="logo">
+								<img src="assets/images/logo1.png" width="200" height="400" class="main-logo" alt="logo">
 							</a> 
 							
 							<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -95,9 +95,9 @@
 													</li>
 												</ul>
 											</li> -->
-											<li class="nav-item">
+											<!-- <li class="nav-item">
 												<a href="team.php" class="nav-link">Team</a>
-											</li>
+											</li> -->
 											<li class="nav-item">
 												<a href="faq.php" class="nav-link">FAQ</a>
 											</li>
@@ -175,11 +175,11 @@
 								<div class="others-options">
 									<ul>
 										<li>
-											<a href="cart.html" class="cart-btn">
+											<!-- <a href="cart.html" class="cart-btn">
 												<img src="assets/images/svg-icon/cart.svg" alt="Image">
 												<span>0</span>
 											</a>
-										</li>
+										</li> -->
 										<li>
 											<div class="option-item">
 												<img src="assets/images/svg-icon/search-line.svg" class="search-btn" alt="Image">

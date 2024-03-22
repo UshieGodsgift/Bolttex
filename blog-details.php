@@ -69,9 +69,9 @@ if(isset($_GET["blog_id"]))
 								</div>
 								<div class="sidebar-widget">
 									<div class="author">
-										<img src="assets/images/blog/author.jpg" alt="Image">
+										<img src="assets/images/blog/blog-job.jpg" width="200" alt="Image">
 										<div class="author-content">
-											<h4>Thomas Markdanel</h4>
+											<h4>Ushie Job</h4>
 											<span>Blogger</span>
 										</div>
 									</div>
@@ -204,13 +204,13 @@ if(isset($_GET["blog_id"]))
 
 								<div class="mb-30"></div>
 
-								<blockquote>
+								<!-- <blockquote>
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-								</blockquote>
+								</blockquote> -->
 
 								<div class="mb-30"></div>
 
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+								<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p> -->
 
 								<p>If there’s one way that wireless technology has changed the way we work, it’s that everyone is now connected, pretty much all the time. Previously, if someone called the office for you but you were out or on the way to a meeting, they’d have to wait to get hold of you.</p>
 
@@ -223,15 +223,15 @@ if(isset($_GET["blog_id"]))
 										</div>
 									</div>
 
-									<div class="col-lg-12">
+									<!-- <div class="col-lg-12">
 										<div class="blog-img mb-30">
 											<img src="assets/images/blog/blog-7.jpg" alt="Image">
 										</div>
-									</div>
+									</div> -->
 								</div>
 
-								<h3>Secure Access Across Any Device, Anywhere, At Just The Right Time.</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit in voluptate.</p>
+								<!-- <h3>Secure Access Across Any Device, Anywhere, At Just The Right Time.</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit in voluptate.</p> -->
 
 								<div class="mb-30"></div>
 
@@ -303,7 +303,7 @@ if(isset($_GET["blog_id"]))
 												<img src="assets/images/blog/comment-1.jpg" alt="Image">
 											</div>
 	
-											<div class="comment-details ms-3">
+											<!-- <div class="comment-details ms-3">
 												<h4>Thomas Markdanel</h4>
 												<span>Manager of LTD</span>
 												<p>Proin eget tortor risus. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus.</p>
@@ -311,11 +311,11 @@ if(isset($_GET["blog_id"]))
 												<a href="#reply" class="reply">
 													Reply
 												</a>
-											</div>
+											</div> -->
 										</li>
 										<li class="d-flex">
 											<div class="flex-shrink-0">
-												<img src="assets/images/blog/comment-2.jpg" alt="Image">
+												<img src="assets/images/blog/unim.jpg"width="70" height="50" alt="Image">
 											</div>
 	
 											<div class="comment-details ms-3">

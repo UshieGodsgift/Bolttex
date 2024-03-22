@@ -41,7 +41,7 @@ require_once('./Includes/nav.php');
 			</div>
 			<!-- End Page Banner Area -->
 
-			<div class="bg-color-linear-4">
+			<!-- <div class="bg-color-linear-4">
 				<!-- End Feature Area -->
 				<div class="feature-area pt-100 pb-70">
 					<div class="container">
@@ -121,7 +121,7 @@ require_once('./Includes/nav.php');
 					</div>
 				</div>
 				<!-- End About Us Area -->
-			</div>
+			</div> -->
 
 			<!-- Start Partner Area -->
 			<div class="partner-area bg-color-f2f0ef ptb-100">
@@ -164,7 +164,8 @@ require_once('./Includes/nav.php');
 							<div class="single-defend">
 								<span>01.</span>
 								<h3>Defend Against Attacks</h3>
-								<p>Integrate local and cloud resources, user traffic and  cloud resources, user traffic and endpoints.</p>
+								<p> assess an organization's current security posture, identify potential risks and threats, and provide recommendations for improving security measures.
+									 They may also help develop security policies, procedures, and incident response plans.</p>
 							</div>
 						</div>
 
@@ -180,7 +181,8 @@ require_once('./Includes/nav.php');
 							<div class="single-defend">
 								<span>03.</span>
 								<h3>Enable The Digital Business</h3>
-								<p>Integrate local and cloud resources, user traffic and  cloud resources, user traffic and endpoints.</p>
+								<p>Small businesses are often targeted by cybercriminals due to their perceived vulnerabilities. Offer practical advice and strategies for small business owners to protect their digital assets, 
+									including tips on securing networks, training employees, and implementing cybersecurity policies.</p>
 							</div>
 						</div>
 
@@ -188,7 +190,7 @@ require_once('./Includes/nav.php');
 							<div class="single-defend">
 								<span>04.</span>
 								<h3>Drive Operational Efficiencies</h3>
-								<p>Integrate local and cloud resources, user traffic and  cloud resources, user traffic and endpoints.</p>
+								<p></p>
 							</div>
 						</div>
 					</div>
@@ -260,7 +262,8 @@ require_once('./Includes/nav.php');
 							<div class="secure-content mr-15">
 								<span class="span">SECURE WEB & CYBER</span>
 								<h2>Secure Access Across Any Device, Anywhere, At Just The Right Time.</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus, egestas amet, senectus semper sit tincidunt bibendum libero. Faucibus neque curabitur ac blandit. Commodo vestibulum.</p>
+								<p>We are a premier cybersecurity firm specializing in providing top-notch digital protection solutions. With a dedicated team of experts, we offer comprehensive services including threat detection, data encryption, and network security. Our cutting-edge technologies and proactive approach ensure that our clients' sensitive information remains safeguarded from cyber threats. 
+									Partner with GuardianTech today for robust cybersecurity solutions tailored to your unique needs</p>
 
 								<div class="row">
 									<div class="col-lg-6">
@@ -321,7 +324,7 @@ require_once('./Includes/nav.php');
 			<!-- End Secure Area -->
 
 			<!-- Start Testimonial Area -->
-			<div class="testimonial-area shape-style bg-liner ptb-100">
+			<!-- <div class="testimonial-area shape-style bg-liner ptb-100">
 				<div class="container">
 					<div class="section-title">
 						<span class="span color-style-five">CUSTOMER’S FEEDBACK</span>
@@ -466,7 +469,7 @@ require_once('./Includes/nav.php');
 				<div class="only-shape shape-2" data-speed="0.06" data-revert="true">
 					<img src="assets/images/testimonial/testimonial-shape-2.png" alt="Image">
 				</div>
-			</div>
+			</div> -->
 			<!-- End Testimonial Area -->
 
 

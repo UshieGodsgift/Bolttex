@@ -99,9 +99,9 @@
 											<!-- <li>
 												<a href="services.php">Cyber Security</a>
 											</li> -->
-											<li>
+											<!-- <li>
 												<a href="team.php">Our Team</a>
-											</li>
+											</li> -->
 										</ul>
 									</div>
 								</div>
