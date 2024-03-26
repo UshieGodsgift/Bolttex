@@ -24,7 +24,7 @@ if(isset($_GET["blog_id"]))
 					<div class="page-banner-content">
 						<ul>
 							<li>
-								<a href="index.php">Home</a>
+								<a href="index">Home</a>
 							</li>
 							<li>
 								<span>Blog</span>
@@ -155,19 +155,19 @@ if(isset($_GET["blog_id"]))
 	
 										<ul class="tag-grid">
 											<li>
-												<a href="blog.php">Cyber Security</a>
+												<a href="blog">Cyber Security</a>
 											</li>
 											<li>
-												<a href="blog.php">Cloud</a>
+												<a href="blog">Cloud</a>
 											</li>
 											<li>
-												<a href="blog.php">Data Strage</a>
+												<a href="blog">Data Strage</a>
 											</li>
 											<li>
-												<a href="blog.php">Cybercrime</a>
+												<a href="blog">Cybercrime</a>
 											</li>
 											<li>
-												<a href="blog.php">Cyber Attack</a>
+												<a href="blog">Cyber Attack</a>
 											</li>
 										</ul>
 									</div>

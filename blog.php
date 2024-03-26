@@ -68,15 +68,15 @@ require_once('blog-array.php');
 										</li>
 										<li>
 											<i class="ri-chat-3-line"></i>
-											<a href="blog-details.php?blog_id=<?= $blog["blog_id"]; ?>">200 commets</a>
+											<a href="blog-details?blog_id=<?= $blog["blog_id"]; ?>">200 commets</a>
 										</li>
 									</ul>
 									<h3>
-										<a href="blog-details.php?blog_id=<?= $blog["blog_id"]; ?>"><?= $blog["title"]; ?></a>
+										<a href="blog-details?blog_id=<?= $blog["blog_id"]; ?>"><?= $blog["title"]; ?></a>
 									</h3>
 									<p><?= $blog["discription"]; ?></p>
 
-									<a href="blog-details.php?blog_id=<?= $blog["blog_id"]; ?>" class="read-more">
+									<a href="blog-details?blog_id=<?= $blog["blog_id"]; ?>" class="read-more">
 										Read More
 										<i class="ri-arrow-right-line"></i>
 									</a>
@@ -92,14 +92,14 @@ require_once('blog-array.php');
 
 						<div class="col-lg-12">
 							<div class="pagination-area">
-								<a href="blog.php" class="next page-numbers">
+								<a href="blog" class="next page-numbers">
 									<i class="ri-arrow-left-s-line"></i>
 								</a>
 								<span class="page-numbers current" aria-current="page">1</span>
-								<a href="blog.php" class="page-numbers">2</a>
-								<a href="blog.php" class="page-numbers">3</a>
+								<a href="blog" class="page-numbers">2</a>
+								<a href="blog" class="page-numbers">3</a>
 								
-								<a href="blog.php" class="next page-numbers">
+								<a href="blog" class="next page-numbers">
 									<i class="ri-arrow-right-s-line"></i>
 								</a>
 							</div>

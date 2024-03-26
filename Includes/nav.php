@@ -7,7 +7,7 @@
 						<div class="col-xl-3">
 							<ul class="header-left-content">
 								<li>
-									Welcome to BOLTTEK. Need Help?  <a href="contact-us.php">Contact Us</a>
+									Welcome to BOLTTEK. Need Help?  <a href="contact-us">Contact Us</a>
 								</li>
 							</ul>
 						</div>
@@ -24,8 +24,8 @@
 								</li>
 								<li>
 									<img src="assets/images/svg-icon/mail.svg" alt="Image">
-									Contact Email: olalekankosile@bolttekllc.com
-									<a href="https://templates.hibotheme.com/cdn-cgi/l/email-protection#a0c3d9c2c5d8e0c7cdc1c9cc8ec3cfcd"><span class="__cf_email__" data-cfemail="92f1ebf0f7ead2f5fff3fbfebcf1fdff">[email&#160;protected]</span></a>
+									
+									<a href = "olalekankosile@bolttekllc.com">Contact Email: olalekankosile@bolttekllc.com</a>
 								</li>
 							</ul>
 						</div>
@@ -40,7 +40,7 @@
 					<div class="container">
 						<div class="mobile-responsive-menu">
 							<div class="logo">
-								<a href="index.php">
+								<a href="index">
 									<img src="assets/images/logo1.png" width="40" height="50" class="main-logo" alt="logo">
 								</a>
 							</div>
@@ -51,7 +51,7 @@
 				<div class="desktop-nav">
 					<div class="container-fluid">
 						<nav class="navbar navbar-expand-md navbar-light">
-							<a class="navbar-brand" href="index.php">
+							<a class="navbar-brand" href="index">
 								<img src="assets/images/logo1.png" width="200" height="400" class="main-logo" alt="logo">
 							</a> 
 							
@@ -61,65 +61,19 @@
 										<!--  -->
 
 											<li class="nav-item">
-												<a href="index.php" class="nav-link active">Home</a>
+												<a href="index" class="nav-link active">Home</a>
 											</li>
 											
 									</li>
 
-									<li class="nav-item">
-										<a href="#" class="nav-link dropdown-toggle">
-											Pages            
-										</a>
+							
 
-										<ul class="dropdown-menu">
 											<li class="nav-item">
-												<a href="about-us.php" class="nav-link">About Us</a>
+												<a href="about-us" class="nav-link">About Us</a>
 											</li>
-											<!-- <li class="nav-item">
-												<a href="pricing.php" class="nav-link">Pricing</a>
-											</li>
-											<li class="nav-item">
-												<a href="review.php" class="nav-link">Review</a>
-											</li>
-											<li class="nav-item">
-												<a href="#" class="nav-link dropdown-toggle">
-													Case Study            
-												</a>
-			
-												<ul class="dropdown-menu">
-													<li class="nav-item">
-														<a href="case-study.php" class="nav-link">Case Study</a>
-													</li>
-													<li class="nav-item">
-														<a href="case-study-details.php" class="nav-link">Case Study Details</a>
-													</li>
-												</ul>
-											</li> -->
-											<!-- <li class="nav-item">
-												<a href="team.php" class="nav-link">Team</a>
-											</li> -->
-											<li class="nav-item">
-												<a href="faq.php" class="nav-link">FAQ</a>
-											</li>
-											<!-- <li class="nav-item">
-												<a href="my-account.php" class="nav-link">My Account</a>
-											</li>
-											<li class="nav-item">
-												<a href="404.php" class="nav-link">Error Page</a>
-											</li>
-											<li class="nav-item">
-												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
-											</li> -->
-											<li class="nav-item">
-												<a href="terms-and-conditions.php" class="nav-link">Terms & Conditions</a>
-											</li>
-											<!-- <li class="nav-item">
-												<a href="coming-soon.php" class="nav-link">Coming Soon</a>
-											</li> -->
-										</ul>
-									</li>
+		
 
-									<li class="nav-item">
+									<!-- <li class="nav-item"> -->
 										<!-- <a href="#" class="nav-link dropdown-toggle">
 											Services            
 										</a> -->
@@ -129,7 +83,7 @@
 												<a href="services-style-one.html" class="nav-link">Services Style One</a>
 											</li> -->
 											<li class="nav-item">
-												<a href="services.php" class="nav-link">Services</a>
+												<a href="services" class="nav-link">Services</a>
 											</li>
 											<!-- <li class="nav-item">
 												<a href="services-details.html" class="nav-link">Services Details</a>
@@ -160,15 +114,15 @@
 
 									<li class="nav-item">
 										
-											<li class="nav-item">
-												<a href="blog.php" class="nav-link">Blog</a>
-											</li>
+											<!-- <li class="nav-item">
+												<a href="blog" class="nav-link">Blog</a>
+											</li> -->
 											
 										
 									</li>
 									
 									<li class="nav-item">
-										<a href="contact-us.php" class="nav-link">Contact Us</a>
+										<a href="contact-us" class="nav-link">Contact Us</a>
 									</li>
 								</ul>
 
@@ -199,7 +153,7 @@
 											</div>
 										</li>
 										<li>
-											<a href="contact-us.php" class="default-btn active">Get Started Now</a>
+											<a href="contact-us" class="default-btn active">Get Started Now</a>
 										</li>
 									</ul>
 								</div>
@@ -229,7 +183,7 @@
 											</a>
 										</li>
 										<li>
-											<a href="contact-us.php" class="default-btn active">Get Started Now</a>
+											<a href="contact-us" class="default-btn active">Get Started Now</a>
 										</li>
 									</ul>
 

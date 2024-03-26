@@ -477,7 +477,7 @@ require_once('./Includes/nav.php');
 
 <?php 
         // <!-- Start Blog Area -->
-		require_once('./Includes/blog-post.php');
+		// require_once('./Includes/blog-post.php');
 		// <!-- End Blog Area -->
 		// <!-- Start Consultations Area -->
 		require_once('./Includes/consultation.php');

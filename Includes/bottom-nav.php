@@ -6,8 +6,8 @@
 					<div class="row">
 						<div class="col-lg-3 col-sm-6">
 							<div class="single-footer-widget">
-								<a href="index.html">
-									<img src="assets/images/logo.png" class="main-logo" alt="Image">
+								<a href="index">
+									<img src="assets/images/logo1.png" class="main-logo" alt="Image">
 								</a>
 
 								<p>Integrate local and cloud resources, protect user traffic and endpoints, and create custom, scalable network.</p>
@@ -40,17 +40,17 @@
 		
 										<ul class="help-link">
 											<li>
-												<a href="about-us.php">About Us</a>
+												<a href="about-us">About Us</a>
 											</li>
 											<!-- <li>
 												<a href="case-study.html">Careers</a>
 											</li> -->
 											<li>
-												<a href="contact-us.php">Business Contacts</a>
+												<a href="contact-us">Business Contacts</a>
 											</li>
-											<li>
-												<a href="blog.php">Our Blog</a>
-											</li>
+											<!-- <li>
+												<a href="blog">Our Blog</a>
+											</li> -->
 											<!-- <li>
 												<a href="terms-and-conditions.php">Terms & Conditions</a>
 											</li> -->
@@ -88,10 +88,10 @@
 		
 										<ul class="help-link">
 											<li>
-												<a href="services.php">Services</a>
+												<a href="services">Services</a>
 											</li>
 											<li>
-												<a href="contact-us.php">Contact</a>
+												<a href="contact-us">Contact</a>
 											</li>
 											<!-- <li>
 												<a href="faq.html">FAQ</a>
@@ -111,13 +111,13 @@
 										<h3>Contact Us</h3>
 		
 										<ul class="contact-info">
-											<li>
+											<!-- <li>
 												<span>Address:</span>
 												8113 Mandan Terrace, Greenbelt 20770, Maryland
-											</li>
+											</li> -->
 											<li>
 												<span>Email:</span>
-												<a href=""><span >[email&#160;protected]</span></a>
+												<a href=""><span >olalekankosile@bolttekllc.com</span></a>
 											</li>
 											<li>
 												<span>Phone:</span>

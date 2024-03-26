@@ -1,6 +1,7 @@
 <?php
 require_once('./Includes/header.php');
 require_once('./Includes/nav.php');
+require_once('./SecuritySolutions-array.php');
 
 ?>
 
@@ -11,7 +12,7 @@ require_once('./Includes/nav.php');
 					<div class="page-banner-content">
 						<ul>
 							<li>
-								<a href="index.php">Home</a>
+								<a href="index">Home</a>
 							</li>
 							<li>
 								<span class="active">Services</span>
@@ -47,103 +48,33 @@ require_once('./Includes/nav.php');
 					</div>
 
 					<div class="row justify-content-center">
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-services style-two">
-								<div class="icon">
-									<img src="assets/images/icon/icon-3.svg" alt="Image">
-								</div>
-								<h3>
-									<a href="services-details.html">Application Security</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
-									Read More
-									<i class="ri-arrow-right-line"></i>
-								</a>
-							</div>
-						</div>
 
-						<div class="col-lg-4 col-sm-6">
+						<?php
+					        foreach($SecurityService as $service){?>
+						            <div class="col-lg-4 col-sm-6">
 							<div class="single-services style-two">
 								<div class="icon">
-									<img src="assets/images/icon/icon-4.svg" alt="Image">
+									<img src="<?= $service['image']?>" alt="Image">
 								</div>
 								<h3>
-									<a href="services-details.html">Network Security</a>
+									<a href="#"><?= $service['title']?></a>
 								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
+								<p><?= $service['content']?></p>
+								<a href="#" class="read-more">
 									Read More
 									<i class="ri-arrow-right-line"></i>
 								</a>
 							</div>
-						</div>
+						</div>	    
+							<?php
+							}
+					   ?>
+						
 
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-services style-two">
-								<div class="icon">
-									<img src="assets/images/icon/icon-5.svg" alt="Image">
-								</div>
-								<h3>
-									<a href="services-details.html">Cloud-native Security</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
-									Read More
-									<i class="ri-arrow-right-line"></i>
-								</a>
-							</div>
-						</div>
-
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-services style-two">
-								<div class="icon">
-									<img src="assets/images/icon/icon-6.svg" alt="Image">
-								</div>
-								<h3>
-									<a href="services-details.html">Data Security</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
-									Read More
-									<i class="ri-arrow-right-line"></i>
-								</a>
-							</div>
-						</div>
-
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-services style-two">
-								<div class="icon">
-									<img src="assets/images/icon/icon-7.svg" alt="Image">
-								</div>
-								<h3>
-									<a href="services-details.html">Security Automation</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
-									Read More
-									<i class="ri-arrow-right-line"></i>
-								</a>
-							</div>
-						</div>
-
-						<div class="col-lg-4 col-sm-6">
-							<div class="single-services style-two">
-								<div class="icon">
-									<img src="assets/images/icon/icon-8.svg" alt="Image">
-								</div>
-								<h3>
-									<a href="services-details.html">Infrastructure Security</a>
-								</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur deelit. Dis orci massa molestie.</p>
-								<a href="services-details.html" class="read-more">
-									Read More
-									<i class="ri-arrow-right-line"></i>
-								</a>
-							</div>
-						</div>
 					</div>
 				</div>
+
+				
 
 				<div class="only-shape shape-2" data-speed="0.06" data-revert="true">
 					<img src="assets/images/pricing-shape-1.png" alt="Image">
@@ -151,6 +82,10 @@ require_once('./Includes/nav.php');
 				<div class="only-shape shape-4" data-speed="0.06" data-revert="true">
 					<img src="assets/images/feature-shape-1.png" alt="Image">
 				</div>
+                       
+
+
+
 			</div>
 			<!-- End Services Area -->
 
@@ -228,7 +163,7 @@ require_once('./Includes/nav.php');
 			<!-- End Defend Area -->
 
 			<!-- Start Testimonial Area -->
-			<div class="testimonial-area shape-style bg-liner ptb-100">
+			<!-- <div class="testimonial-area shape-style bg-liner ptb-100">
 				<div class="container">
 					<div class="section-title">
 						<span class="span color-style-five">CUSTOMER’S FEEDBACK</span>
@@ -373,7 +308,7 @@ require_once('./Includes/nav.php');
 				<div class="only-shape shape-2" data-speed="0.06" data-revert="true">
 					<img src="assets/images/testimonial/testimonial-shape-2.png" alt="Image">
 				</div>
-			</div>
+			</div> -->
 			<!-- End Testimonial Area -->
 <?php 
 

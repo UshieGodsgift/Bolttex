@@ -2,11 +2,11 @@
 
 
 			<!-- Start Copyright Area -->
-			<div class="copy-right-area">
+			<!-- <div class="copy-right-area">
 				<div class="container">
 					<p>© <span>Mr ID</span> is Proudly Owned by <a href="" target="_blank">ID</a></p>
 				</div>
-			</div>
+			</div> -->
 			<!-- End Copyright Area -->
 
 			<!-- Start Go Top Area -->
