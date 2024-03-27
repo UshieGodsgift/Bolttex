@@ -13,10 +13,10 @@
 						</div>
 						<div class="col-xl-9">
 							<ul class="heaqder-right-content">
-								<li>
+								<!-- <li>
 									<img src="assets/images/svg-icon/location.svg" alt="Image">
 									Address:  8113 Mandan Terrace, Greenbelt 20770, Maryland
-								</li>
+								</li> -->
 								<li>
 									<img src="assets/images/svg-icon/call.svg" alt="Image">
 									Contact:
@@ -71,17 +71,7 @@
 											<li class="nav-item">
 												<a href="about-us" class="nav-link">About Us</a>
 											</li>
-		
 
-									<!-- <li class="nav-item"> -->
-										<!-- <a href="#" class="nav-link dropdown-toggle">
-											Services            
-										</a> -->
-
-										<!-- <ul class="dropdown-menu">
-											<li class="nav-item">
-												<a href="services-style-one.html" class="nav-link">Services Style One</a>
-											</li> -->
 											<li class="nav-item">
 												<a href="services" class="nav-link">Services</a>
 											</li>
@@ -91,26 +81,6 @@
 										<!-- </ul> -->
 									</li>
 
-									<!-- <li class="nav-item">
-										<a href="#" class="nav-link dropdown-toggle">
-											Shop            
-										</a>
-
-										<ul class="dropdown-menu">
-											<li class="nav-item">
-												<a href="products.html" class="nav-link">Products</a>
-											</li>
-											<li class="nav-item">
-												<a href="cart.html" class="nav-link">Cart</a>
-											</li>
-											<li class="nav-item">
-												<a href="checkout.html" class="nav-link">Checkout</a>
-											</li>
-											<li class="nav-item">
-												<a href="product-details.html" class="nav-link">Product Details</a>
-											</li>
-										</ul>
-									</li> -->
 
 									<li class="nav-item">
 										
